@@ -1,1 +1,24 @@
-sign_on_display class
+#Assitatura Digital
+
+Assinatura digital com JSignature, PHP e Bootstrapt
+
+
+*** INTRODUÇÃO
+
+
+Bem vindo ao App de assinatura digital. 
+
+Este é um app para criar assinatura digital a partir de tablets e transformar em pdf, armazenando no servidor;
+
+Reduzindo a quantidade de impressões e digitalizações de contratos.
+
+
+*** VERSÃO
+
+Versão beta, porém estável.
+
+Necessita transformar 100% responsível (inclusive as assinaturas);
+
+Gerar PDF com os campos do contrato mais a imagem da assinatura com FPDF;
+
+Armazenar em um servidor de acordo com o numero da matricula do aluno ou código do usuário
